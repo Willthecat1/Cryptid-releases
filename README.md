@@ -17,3 +17,4 @@ TO DO LIST
 1. fix plant growth growing all plants at same speed and then staying grown when planted again
        1.5. make plant placment drag to plant and click per tile, 
 2. build tutorial info to help navitage world for testers and futrue players
+3.inventory overflow handler
