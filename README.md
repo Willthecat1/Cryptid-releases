@@ -18,6 +18,7 @@ TO DO LIST
        1.5. make plant placment drag to plant and click per tile, 
 2. build tutorial info to help navitage world for testers and futrue players
 3.inventory overflow handler
+4.y-sorting broken of items 
 
 
 Visual bugs, lower tier of bugs 
